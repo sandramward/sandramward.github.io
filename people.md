@@ -4,8 +4,8 @@ title: Group Members
 permalink: /people/
 ---
 **Summer 2017**
-![Alternative Text]( {{ site.baseurl }}/images/20170816_163339.jpg.png )
 
+![Alternative Text]( {{ site.baseurl }}/images/20170816_163339.jpg.png )
 
 ![Alternative Text]( {{ site.baseurl }}/images/Picture2.jpg )
 
@@ -15,7 +15,7 @@ permalink: /people/
 
 **Summer 2019**
 
-![Alternative Text]( {{ site.baseurl }}images//20190815_162638.jpg )
+![Alternative Text]( {{ site.baseurl }}/images/20190815_162638.jpg )
 
 
 **Summer 2021**

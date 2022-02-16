@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Alternative Text]( {{ site.baseurl }}/images/MAT02341.jpg )
 
-Sandra Ward is an assistant Professor in the Chemistry & Biochemistry department at the [California Polytechnic State University](calpoly.edu) in San Luis Obispo. Cal Poly is a Primarily Undergraduate Institution (PUI) that values a “Learn by Doing” philosophy and strongly supports research experiences for undergraduate students. Dr. Ward leads a group of undergraduate researchers to develop stimuli responsive material for drug delivery applications. In particular, the group has been developing stimuli responsive supramolecular amphiphiles as building blocks for nanocarriers and crosslinkers for hydrogels.
+Sandra Ward is an assistant Professor in the Chemistry & Biochemistry department at the California Polytechnic State University in San Luis Obispo. Cal Poly is a Primarily Undergraduate Institution (PUI) that values a “Learn by Doing” philosophy and strongly supports research experiences for undergraduate students. Dr. Ward leads a group of undergraduate researchers to develop stimuli responsive material for drug delivery applications. In particular, the group has been developing stimuli responsive supramolecular amphiphiles as building blocks for nanocarriers and crosslinkers for hydrogels.
 
 ### More Information
 

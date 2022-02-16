@@ -5,7 +5,7 @@ permalink: /people/
 ---
 **Summer 2017**
 
-![Alternative Text]( {{ site.baseurl }}/images/20170816_163339.jpg.png )
+![Alternative Text]( {{ site.baseurl }}/images/20170816_163339.jpg )
 
 ![Alternative Text]( {{ site.baseurl }}/images/Picture2.jpg )
 

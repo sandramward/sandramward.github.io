@@ -5,6 +5,18 @@ permalink: /people/
 ---
 **Present  Members**
 
+<img src="{{site.baseurl}}/images/20170816_163339.jpg" alt="Picture of blah" width="100"
+style="float: left; margin-top: 0px; margin-right: 10px" />
+
+<img src="{{site.baseurl}}/images/picture_filename.jpg" alt="Picture of blah" width="100"
+style="float: left; margin-top: 0px; margin-right: 10px" />
+
+<img src="{{site.baseurl}}/images/picture_filename.jpg" alt="Picture of blah" width="100"
+style="float: left; margin-top: 0px; margin-right: 10px" />
+
+<img src="{{site.baseurl}}/images/picture_filename.jpg" alt="Picture of blah" width="100"
+style="float: left; margin-top: 0px; margin-right: 10px" />
+
 Minh Nguyen
 
 Maile Gardner

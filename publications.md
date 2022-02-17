@@ -4,11 +4,11 @@ title: Publications
 permalink: /pubs/
 ---
 
-**Work completed at Calpoly **
+**Work Complete at Cal Poly**
 
  1. Mobley,E.; Byrd, N, Yim, M., Gariepy, R.; Rieder, M.; Ward. S " Glutathione Sensitive Vesicles prepared from Supramolecular Amphiphiles: Soft Matter,Soft Matter,  17, 9664-9669 ( 2021) 
 
-**Work Completed prior to Cal  Poly **
+**Work Completed Prior to Cal Poly**
 
 1. Champagne, P-L, Ester, D.; Ward, S.; Williams, V.E.; Ling, C.C.; A Family of Amphiphilic Cyclodextrin Liquid Crystals Governed by Dipole-Dipole Interactions. ChemPlusChem 82, 423-432, (2016)
 2. Alonso Doval, D.; Dal Molin M.; Ward, S.; Fin, A.; Sakai, N.; Matile, S. Planarizable Push-pull Oligothiophenes: In search for the perfect twist. Chemical Science, 5, 2819-2825, (2014)

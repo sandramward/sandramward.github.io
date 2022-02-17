@@ -8,6 +8,8 @@ permalink: /pubs/
 
  1. Mobley,E.; Byrd, N, Yim, M., Gariepy, R.; Rieder, M.; Ward. S " Glutathione Sensitive Vesicles prepared from Supramolecular Amphiphiles: Soft Matter,Soft Matter,  17, 9664-9669 ( 2021) 
 
+![Alternative Text]( {{ site.baseurl }}/images/paper1.jpg )
+
 **Work Completed Prior to Cal Poly**
 
 1. Champagne, P-L, Ester, D.; Ward, S.; Williams, V.E.; Ling, C.C.; A Family of Amphiphilic Cyclodextrin Liquid Crystals Governed by Dipole-Dipole Interactions. ChemPlusChem 82, 423-432, (2016)

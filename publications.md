@@ -4,7 +4,7 @@ title: Publications
 permalink: /pubs/
 ---
 
-**Work Complete at Cal Poly**
+**Work Completed at Cal Poly**
 
  1. Mobley,E.; Byrd, N, Yim, M., Gariepy, R.; Rieder, M.; Ward. S " Glutathione Sensitive Vesicles prepared from Supramolecular Amphiphiles: Soft Matter,Soft Matter,  17, 9664-9669 ( 2021) 
 
